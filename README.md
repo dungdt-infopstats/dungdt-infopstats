@@ -15,10 +15,6 @@
 
 - 📫 Email: **dungit2204@gmail.com**
 
-- 📘 Facebook: **https://www.facebook.com/dtdungggggggg**
-
-- 🤳🏽 Instagram: **https://www.instagram.com/dtdungggggggg**
-
 
 
 
