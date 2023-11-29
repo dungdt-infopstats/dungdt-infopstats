@@ -1,13 +1,13 @@
 <h1 align="center">Ayyo Wassup 🤟, Dung's here 😼</h1>
 <h3 align="center">Computer Network & Data Communications Student at VNU-UET</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Do+Tri+Dung..&hearts;++;Cloud+Computing+Beginner;Computer+Networking+Student;CTF+Cryptography+Newbie;Active+Student,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Do+Tri+Dung..&hearts;++;Cloud+Computing+Beginner;IOT+Researcher;Computer+Networking+Student;CTF+Cryptography+Newbie;Active+Student;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🌱 I’m currently learning **Cloud Computing ☁️, Computer Networking 🌐 and Cryptography 🔐**
+- 🌱 I’m currently researching **Cloud Computing ☁️, Internet of Things 🌐 and Cryptography 🔐**
 
 - 💬 Ask me about **virtual effort 😈**
 
