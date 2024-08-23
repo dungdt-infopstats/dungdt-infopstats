@@ -7,15 +7,15 @@
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🐬 Research: **IOT Data 👀, Time Series Data 📈**
+- 🐬 Research: **Deep Learning**
 
-- 🌱 I’m also curious about **Rap 🤖, Manga 🍢, Food 🍜 and Video Games 🎮**
+- 🌱 I’m also curious about **Cloud Computing, Cryptography, Mathematics**
 
 - 💬 Ask me about **virtual effort, miscellaneous thoughts 😈**
 
 - ⚡ Fun fact **I love you more than cats 😽😽😽**
 
-- 📫 Email: **dungit2204@gmail.com**
+- 📫 Email: **tridung392004@gmail.com**
 
 
 # 💻 Tech Stack:
