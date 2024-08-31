@@ -7,9 +7,9 @@
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🐬 Research: **Deep Learning**
+- 🐬 Research: **Mixture of Experts**
 
-- 🌱 I’m also curious about **Cloud Computing, Cryptography, Mathematics**
+- 🌱 I’m also curious about **Deep Learning Applications, Cloud Computing, Cryptography, Mathematics**
 
 - 💬 Ask me about **virtual effort, miscellaneous thoughts 😈**
 
