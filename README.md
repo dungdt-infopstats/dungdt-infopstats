@@ -9,7 +9,7 @@
 
 - 🐬 Research: **Multi-Agent**
 
-- 🌱 I’m also curious about **Deep Learning Applications, Cloud Computing, Cryptography, Mathematics**
+- 🌱 I’m curious about **Deep Learning Theory, Generative AI**
 
 - 💬 Ask me about **virtual effort, miscellaneous thoughts 😈**
 
