@@ -7,9 +7,9 @@
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🐬 Research topics: **Multi-Agent** and **Machine Learning/Deep Learning Theory**
+- 🐬 Research topics: **Agentic AI**, **Large Language Models**, **Machine Learning/Deep Learning Theory**
 
-- 🌱 I’m also curious about **Generative AI** and their **Probabilistic Approach**
+- 🌱 I’m also curious about **Generative AI**, **Reinforcement Learning** and their **Probabilistic Perspective**
 
 - 💬 Ask me about **virtual effort, miscellaneous thoughts 😈**
 
