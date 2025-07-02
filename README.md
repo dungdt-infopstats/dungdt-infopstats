@@ -7,15 +7,15 @@
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🐬 Research topics: **Agentic AI**, **Large Language Models**, and **Machine Learning/Deep Learning Theory**
+- 🐬 Research topics: **AI**
 
-- 🌱 I’m also curious about **Generative AI**, **Reinforcement Learning** and their **Probabilistic Perspective**
+- 🌱 I’m also curious about **Applied Maths for AI**
 
 - 💬 Ask me about **virtual effort, miscellaneous thoughts 😈**
 
 - ⚡ Fun fact **I love you more than cats 😽😽😽**
 
-- 📫 Email: **tridung392004@gmail.com**
+- 📫 Email: **dungdt.research@gmail.com**
 
 
 # 💻 Tech Stack:
