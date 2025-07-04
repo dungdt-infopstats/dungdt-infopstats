@@ -7,7 +7,7 @@
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
 
-- 🐬 Research topics: **Learning Representations**, **Large Language Models**
+- 🐬 Research topic: **Speech Processing**
 
 - 🌱 I’m also curious about **Applied Maths for AI**
 
