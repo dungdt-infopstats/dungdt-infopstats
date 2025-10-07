@@ -8,7 +8,7 @@
 
 - 🌱 **Side research interests:** *Representation Learning* and *Deep Reinforcement Learning for Cloud Resource Management & Scheduling*
 
-- 🔭 **Previous research areas:** *LLM Multi-Agent*
+- 🔭 **Previous research area:** *LLM Multi-Agent*
 
 - ⚡ **Fun fact:** I’m most curious about the things I’m not good at, especially those that make me realize how little I actually know.
 
