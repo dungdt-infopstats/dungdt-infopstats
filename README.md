@@ -6,7 +6,7 @@
 
 - 🧠 **Main research topics:** *Speech Processing* and *Spoken Language Models*  
 
-- 🌱 **Side research interests:** *Representation Learning* and *Deep Reinforcement Learning for Cloud Resource Management & Scheduling*
+- 🌱 **Side research interests:** *Representation Learning* and *Efficient LLM Scheduling*
 
 - 🔭 **Previous research area:** *LLM Multi-Agent*
 
