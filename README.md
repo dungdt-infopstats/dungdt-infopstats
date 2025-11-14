@@ -1,5 +1,5 @@
 <h1 align="center">Ayyo Wassup 🤟, Dung's here 😼</h1>
-<h3 align="center">Intern AI Engineer at Viettel AI</h3>
+<h3 align="center">AI Engineer at Viettel AI</h3>
 
 ## 💫 About Me:
 <img align="right" height="180" src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif"  />
